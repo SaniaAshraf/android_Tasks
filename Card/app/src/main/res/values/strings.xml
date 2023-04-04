@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Card</string>
+    <string name="Name" translatable="false">Name->Sania Ashraf</string>
+    <string name="Aridno" translatable="false">AridNo->20-ARID-549</string>
+    <string name="Email" translatable="false">email->saniaashraf@gmail.com</string>
+    <string name="Gender">Gender->Female</string>
+
+
+</resources>
